@@ -1,0 +1,14 @@
+public class TV {
+    public static void main(String[] args) {
+        String brand = "Samsung";
+        String model = "Q LED Q60T";
+        String resolution = "4K UHD";
+        double price = 799.99;
+        boolean isInStock = true;
+        boolean isSmartTv = true;
+        boolean hasHDR = true;
+        byte ports = 4;
+        int warrantPeriod = 365;
+
+    }
+}
