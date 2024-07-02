@@ -1,0 +1,13 @@
+public class Table {
+    public static void main(String[] args) {
+        String material = "Wood";
+        float length = 1.5f;
+        byte numberOfLegs = 4;
+        boolean isPortable = true;
+        double price = 199.99;
+        boolean isInStock = true;
+        String manufacturer = "Ikea";
+        int warrantyPeriod = 365;
+
+    }
+}
