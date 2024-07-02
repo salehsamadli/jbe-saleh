@@ -1,0 +1,9 @@
+public class Student {
+    public static void main(String[] args) {
+        String name = "Saleh";
+        String surname = "Samadli";
+        byte age = 23;
+        String major = "Computer Science";
+
+    }
+}
