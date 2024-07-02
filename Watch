@@ -1,1 +1,13 @@
-
+public class Watch {
+    public static void main(String[] args) {
+        String brand = "Rolex";
+        String model = "Submariner";
+        String caseMaterial = "Oystersteel";
+        boolean waterResistance = true;
+        String dialColor = "Black";
+        float caseDiameter = 40.1f;
+        float weight = 150.5f;
+        double price = 8000.0;
+        boolean isInStock = true;
+    }
+}
