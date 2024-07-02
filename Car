@@ -1,0 +1,12 @@
+public class Car {
+    public static void main(String[] args) {
+        // Car
+        String model = "BMW - 535d";
+        String generation = "E60";
+        byte numberOfDoors = 4;
+        int trunk = 520;
+        double acceleration = 6.5;
+        String color = "White";
+        boolean fuelTypeDiesel = true;
+    }
+}
