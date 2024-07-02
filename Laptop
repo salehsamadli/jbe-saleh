@@ -1,0 +1,15 @@
+public class Laptop {
+    public static void main(String[] args) {
+        String brand = "Lenovo";
+        String model = "Ideapad 330-15ikb";
+        String processor = "Intel Core i7";
+        byte ram = 16;
+        int storage = 1980;
+        float screenSize = 17.3f;
+        String resolution = "1366x768";
+        String operatingSystem = "Windows 10 Pro";
+        double price = 1799.99;
+        boolean isInStock = false;
+
+    }
+}
