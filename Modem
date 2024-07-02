@@ -1,0 +1,12 @@
+public class Modem {
+    public static void main(String[] args) {
+        String brand = "TP-Link";
+        String model = "Archer CR700";
+        int maxDownloadSpeed = 1000;
+        int maxUploadSpeed = 100;
+        float weight = 0.5f;
+        double price = 99.9;
+        boolean isInStock = false;
+        int warrantyPeriod = 365;
+    }
+}
