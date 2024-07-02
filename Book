@@ -1,0 +1,10 @@
+public class Book {
+    public static void main(String[] args) {
+        String type = "in Computer Engineering and Software Design.";
+        String title = "Data Structures and Algorithms";
+        int numbOfPages = 477;
+        String authorBook = "Dr. Rifat Cholkesen";
+        String color = "Blue";
+        int publicationYear = 2014;
+    }
+}
